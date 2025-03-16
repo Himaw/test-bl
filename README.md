@@ -1,7 +1,9 @@
 FE:
-first run `npm i`
- and to run use:
+first navigate to folder
 `cd bluetooth-scanner`
+and  run `npm i`
+ and to run the app use:
+
 `npm start`
 
 
