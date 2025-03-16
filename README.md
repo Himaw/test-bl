@@ -1,6 +1,6 @@
 FE:
 first run `npm i`
-to run:
+ and to run use:
 `cd bluetooth-scanner`
 `npm start`
 
