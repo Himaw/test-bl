@@ -8,7 +8,7 @@ first run `npm i`
 BE:
 
 pip install bleak
-pip install fastapi==0.115.11
-pip install fastapi-socketio==0.0.10
+pip install fastapi
+pip install fastapi-socketio
 
 to run `python server.py`
